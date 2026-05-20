@@ -1,0 +1,18 @@
+# Virtual Environment files
+venv/
+.venv/
+env/
+
+# Deep Learning / Model Weights (Keep your repo clean)
+*.keras
+*.h5
+*.pkl
+
+# Python/OS caching artifacts
+__pycache__/
+*.pyc
+.DS_Store
+.history/
+
+dataset/
+*.hdf5
